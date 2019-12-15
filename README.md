@@ -1,5 +1,5 @@
-# vending-machine-spring-mvc
-vending-machine-spring-mvc project
+#  vending-machine-spring-mvc
+vending-machine-spring-mvc project.
 
 Design and code a vending machine that satisfies the following diagram.
 Vending Machine
